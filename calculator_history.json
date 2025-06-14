@@ -1,0 +1,233 @@
+[
+  {
+    "id": "f33734a6-78e7-47a0-9ff0-c3682a029968",
+    "timestamp": "2025-05-27T14:18:49.563273",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "c4240833-b1c2-477f-a2a2-e14c92f2eab5",
+    "timestamp": "2025-05-27T14:18:49.923968",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "58f9d08f-6d30-41ba-92e3-093c5298b059",
+    "timestamp": "2025-05-27T14:19:16.576086",
+    "type": "Basic",
+    "input": "78.0 - 6.0",
+    "result": "72"
+  },
+  {
+    "id": "2f45a680-8226-4dc6-83f3-c86b05e901a6",
+    "timestamp": "2025-05-27T14:19:51.387340",
+    "type": "Scientific",
+    "input": "sin(90.0)",
+    "result": "1.0"
+  },
+  {
+    "id": "ef5fa919-ae2b-4010-a40d-5f51798f18a6",
+    "timestamp": "2025-05-27T14:22:34.151768",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "eb85a40f-3ee8-4f9d-abef-a5b8098b4faf",
+    "timestamp": "2025-05-27T14:22:34.418270",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "aab6a0db-2677-42e8-bec7-516538da7e37",
+    "timestamp": "2025-05-27T14:22:49.212567",
+    "type": "Equation Solver",
+    "input": "2.0x + 1.0 = 0",
+    "result": "x = -0.5"
+  },
+  {
+    "id": "f0f0b6b9-e22c-43e9-8a06-3c4102e7c1d2",
+    "timestamp": "2025-05-27T14:23:11.980703",
+    "type": "Matrix Operations",
+    "input": "A + B (2x2)",
+    "result": "Matrix calculation completed"
+  },
+  {
+    "id": "f42015a5-a629-496b-871d-d97cd5de24b6",
+    "timestamp": "2025-05-27T14:23:27.482202",
+    "type": "Matrix Operations",
+    "input": "A \u00d7 B (2x2)",
+    "result": "Matrix calculation completed"
+  },
+  {
+    "id": "95d8426a-50ef-4bb3-8fb2-03b33d193fce",
+    "timestamp": "2025-05-27T14:24:00.785601",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "6b230d2d-a218-402a-8b50-572573ef40ce",
+    "timestamp": "2025-05-27T14:24:07.022368",
+    "type": "Graph Plotter",
+    "input": "x^2",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "79282780-da16-49d3-9346-e8e621e67a29",
+    "timestamp": "2025-05-28T12:11:05.986273",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "dda8550a-ad0b-489a-bd74-c4eefd6431cd",
+    "timestamp": "2025-05-28T12:11:06.657955",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "ffa2a0ff-5309-4f9c-840a-3e7f708d436a",
+    "timestamp": "2025-06-15T00:46:28.007586",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "a0c60c02-363f-46e7-b641-7b4448231c4d",
+    "timestamp": "2025-06-15T00:46:28.315225",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "59631840-22e5-403e-bf9f-eba84995cc76",
+    "timestamp": "2025-06-15T00:47:16.678088",
+    "type": "Scientific",
+    "input": "sin(90.0)",
+    "result": "1.0"
+  },
+  {
+    "id": "d319feed-fba4-48c2-a3d9-8c9b7e1f77ac",
+    "timestamp": "2025-06-15T00:47:27.874807",
+    "type": "Equation Solver",
+    "input": "x  = 0",
+    "result": "x = 0"
+  },
+  {
+    "id": "df338a91-f98f-413d-9ec7-83464c9d1ab1",
+    "timestamp": "2025-06-15T00:51:53.991533",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "a3636d21-482a-47d3-8caa-fac505c25298",
+    "timestamp": "2025-06-15T00:51:54.183400",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "35a8cfd3-d42d-4c28-b743-848691292c06",
+    "timestamp": "2025-06-15T00:55:30.649052",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "181e6b49-f526-4289-9363-a01ae3baeea7",
+    "timestamp": "2025-06-15T00:55:30.866648",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "73e332fa-43b6-419f-b279-60caa57715a4",
+    "timestamp": "2025-06-15T00:57:40.515099",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "5d275c75-1e7b-42a8-ab4d-e1bcb75ff3f3",
+    "timestamp": "2025-06-15T00:57:40.796947",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "53f5db74-0b8e-45da-afbc-c11a7a39da6e",
+    "timestamp": "2025-06-15T00:59:33.702336",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "99016496-2217-4a90-9b77-4192b506dd37",
+    "timestamp": "2025-06-15T00:59:33.906368",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "2151ea06-d7f8-49bd-a399-86c5812d423c",
+    "timestamp": "2025-06-15T01:02:21.724654",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "2963d776-6201-4f71-895a-6956f8086c19",
+    "timestamp": "2025-06-15T01:02:21.933986",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "20acb515-33b8-4fe7-8e61-2295168aedae",
+    "timestamp": "2025-06-15T01:02:35.933851",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "c546dde3-e577-47da-ad9b-dc63eb461f81",
+    "timestamp": "2025-06-15T01:02:36.159559",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "cb7ac748-6556-4856-9d1a-528df9b77c7c",
+    "timestamp": "2025-06-15T01:02:48.824606",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "0b5211d4-74d5-4380-a562-b7a3e6fd000c",
+    "timestamp": "2025-06-15T01:02:49.051167",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  },
+  {
+    "id": "404bf598-0e1c-46f4-8c61-8e1a00a45050",
+    "timestamp": "2025-06-15T01:03:17.448474",
+    "type": "Unit Converter",
+    "input": "1.0 Meter to Kilometer",
+    "result": "0.001 Kilometer"
+  },
+  {
+    "id": "b097ceea-6363-4732-963a-5b7e2668bf13",
+    "timestamp": "2025-06-15T01:03:17.648207",
+    "type": "Graph Plotter",
+    "input": "sin(x)",
+    "result": "Plot created with x in [-10.0, 10.0]"
+  }
+]
